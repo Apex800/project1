@@ -32,3 +32,33 @@ button {
     display: block;
 }
 
+#layout {
+margin-top: 20px;
+    margin-left: 20px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+
+    }
+
+.rightside
+{
+    float: right;
+}
+
+#img2:hover {
+
+    box-shadow: 3px 3px #666;
+    
+}
+
+#img3:hover {
+
+    box-shadow: 3px 3px #666;
+    
+}
+
+#img4:hover {
+
+    box-shadow: 3px 3px #666;
+    
+}
